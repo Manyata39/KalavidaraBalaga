@@ -63,4 +63,5 @@ Event organizers can:
 
 ## 📱 Screenshots  
 
-_Add screenshots here after uploading images_
+<img width="1920" height="1080" alt="Screenshot (1261)" src="https://github.com/user-attachments/assets/6f15ff64-f23e-4f5b-aadb-c3aa883ce596" />
+
